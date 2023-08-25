@@ -1,4 +1,4 @@
 # first-repo
 web applications first repo
-Amit Harish Doddamani
-Northwest Missouri State University
+Name: Amit Harish Doddamani
+Address: Northwest Missouri State University
